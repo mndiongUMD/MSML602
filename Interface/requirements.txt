@@ -1,0 +1,7 @@
+nltk
+sqlite3
+matplotlib
+seaborn
+wordcloud
+statsmodels
+scikit-learn
